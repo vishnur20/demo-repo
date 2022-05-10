@@ -7,4 +7,4 @@ This is readme file
 ### feature development
 1. Bug fixes
 2. Add features
-3. conflict quick-test
+3. conflict main

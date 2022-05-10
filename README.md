@@ -7,3 +7,4 @@ This is readme file
 ### feature development
 1. Bug fixes
 2. Add features
+3. confict quick-test
